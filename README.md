@@ -14,7 +14,7 @@ I first created this bot in **2018**, when I was in **9th grade (Junior High Sch
 
 At that time, I wanted to **bring Radio Prambors from the website to Discord** because opening a Chrome tab to listen to the radio was **too heavy on my PC**, especially when I was gaming.  
 
-The code might look simple now—but remember, it was written by a middle schooler **learning only from StackOverflow and YouTube tutorials**.  
+The code might look simple now—but remember, it was written by a middle schooler **learning only from StackOverflow and YouTube tutorials**.   It is hosted on Heroku and Glitch to ensure continuous streaming and uptime.
 
 Initially, this bot was **for personal use** with my friends in a private Discord server. However, it quickly gained interest and eventually:
 
@@ -58,7 +58,8 @@ Through developing Prambors Discord Bot, I gained experience in:
 - **Building a Discord bot** with Node.js and Discord.js  
 - **Integrating external APIs** such as Genius for song lyrics  
 - **Web scraping** using `axios` and `cheerio`  
-- **Deploying and maintaining a live bot** across multiple servers  
+- **Deploying and maintaining a live bot** across multiple servers
+- Hosting and managing the bot on Heroku for continuous streaming and uptime  
 - **Writing code for real-world use cases**, starting from a personal project to one used by thousands of users  
 - **Problem-solving and debugging** based on user feedback
 

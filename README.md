@@ -4,7 +4,9 @@ Prambors Discord Bot is a **Discord bot** that allows users to listen to **Radio
 
 This project is one of my **earliest coding projects** and played a major role in keeping me active in programming.  
 
-![Prambors Bot](prambors-info.png) <!-- replace with your image if available -->
+![Prambors Bot](prambors-info.png)  
+For full documentation including images and videos, you can visit my portfolio:  
+[Click Me!](https://portfolio-adnanalvito.vercel.app/projects/5)
 
 ---
 

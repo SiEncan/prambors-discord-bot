@@ -6,7 +6,7 @@ This project is one of my **earliest coding projects** and played a major role i
 
 ![Prambors Bot](prambors-info.png)  
 For full documentation including images and videos, you can visit my portfolio:  
-[Click Me!](https://portfolio-adnanalvito.vercel.app/projects/5)
+[Click Me!](https://adnanalvito.vercel.app/projects/5)
 
 ---
 
